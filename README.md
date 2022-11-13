@@ -1,1 +1,3 @@
 # limited_shiritori
+QuizKnockさんがYoutubeの企画でやっていた「限界しりとり」を遊ぶための補助ツールです。
+以下の機能が付いています
